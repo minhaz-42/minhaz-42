@@ -1,21 +1,58 @@
-# 💫 About Me:
-Hi 👋, I'm Tanvir Ahmed
 
+# Welcome to My Gitverse! 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://minhaz-portfolio.vercel.app/)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/16buZsF87d/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/minhaz_04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdt818809@gmail.com) 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there!+I'm+Minhaz+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Code+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=minhaz-42&theme=rose&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=minhaz-42&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz-42&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🌟 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=minhaz-42&limit=5&theme=dark&combine_all_yearly_contributions=true)
+```javascript
+const minhaz = {
+    pronouns: "He/Him",
+    code: ["JavaScript", "Python", "Java", "C++"],
+    askMeAbout: ["web dev", "backend", "UI/UX", "algorithms"],
+    technologies: {
+        frontEnd: { js: ["React", "Next.js"], css: ["Tailwind", "Bootstrap"] },
+        backEnd: { js: ["Node.js", "Express"], python: ["Django"], databases: ["MongoDB", "MySQL"] },
+        mobile: ["Flutter"],
+        devOps: ["Docker", "Firebase"],
+        tools: ["Git", "Vite"]
+    },
+    currentFocus: "Learning cloud and scalable systems",
+    funFact: "I debug with console.log() and a cup of tea 🍵"
+};
+```
+
+## 🎯 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhaz-42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minhaz-42&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz-42&layout=compact&theme=tokyonight&hide_border=true)
+
+## 📊 GitHub Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minhaz-42&theme=tokyo-night&hide_border=true)
+
+## 🏆 Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=minhaz-42&theme=tokyonight&no-frame=true&column=7)
+
+## 🤝 Let's Connect!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://minhaz-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/minhaz-42)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhaz.dev42@gmail.com)
+
+## 💡 Random Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=minhaz-42&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Footer](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
+> 💫 *"Code is like humor. When you have to explain it, it's bad."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=minhaz-42&label=Profile%20views&color=0e75b6&style=flat)
