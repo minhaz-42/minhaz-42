@@ -104,58 +104,114 @@ const tanvir = {
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=minhaz-42&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=minhaz-42&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz-42&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=minhaz-42&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-<br/>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minhaz-42&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=minhaz-42&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz-42&theme=radical&hide_border=true&layout=compact&langs_count=8)
+  
+</div>
 
 <div align="center">
   
-  [![An image of @minhaz42's Holopin badges](https://holopin.me/minhaz42)](https://holopin.io/@minhaz42)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=minhaz-42&theme=radical&hide_border=true)
+  
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhaz-42&theme=radical" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+## 🏆 GitHub Metrics
+
+<div align="center">
+  
+  ![Metrics](https://metrics.lecoq.io/minhaz-42?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka)
+  
+</div>
+
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api/wakatime?username=minhaz42&theme=radical&hide_border=true&layout=compact)
   
 </div>
 
 <br/>
 
-## 📈 Contribution Stats
+## 📈 Contribution Analytics
 
 <div align="center">
   
-  ![](https://github-contributor-stats.vercel.app/api?username=minhaz-42&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
-
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minhaz-42&theme=radical&utcOffset=6)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minhaz-42&theme=radical)
+  
 </div>
 
 <br/>
 
-## 🎯 Coding Profiles
+## 🎯 Competitive Programming
 
-<p align="center">
-  <a href="https://codeforces.com/profile/minhaz-42">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://leetcode.com/minhaz-42">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/minhaz_42">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://www.codechef.com/users/minhaz_42">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-</p>
+<div align="center">
+
+### Coding Platforms
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://codeforces.com/profile/minhaz-42">
+        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/><br/>
+        <b>Codeforces</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://leetcode.com/minhaz-42">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/><br/>
+        <b>LeetCode</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.hackerrank.com/minhaz_42">
+        <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/><br/>
+        <b>HackerRank</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.codechef.com/users/minhaz_42">
+        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/><br/>
+        <b>CodeChef</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://atcoder.jp/users/minhaz_42">
+        <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/><br/>
+        <b>AtCoder</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.hackerearth.com/@minhaz42">
+        <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/><br/>
+        <b>HackerEarth</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.topcoder.com/members/minhaz_42">
+        <img src="https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white" alt="TopCoder"/><br/>
+        <b>TopCoder</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://stackoverflow.com/users/your-id">
+        <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/><br/>
+        <b>Stack Overflow</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -179,24 +235,35 @@ const tanvir = {
 
 <br/>
 
-## � Contribution Snake
+## 🎨 GitHub Skyline
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/minhaz-42/minhaz-42/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+  <a href="https://skyline.github.com/minhaz-42/2024">
+    <img src="https://img.shields.io/badge/View_My_2024_Skyline-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 2024"/>
+  </a>
+  <a href="https://skyline.github.com/minhaz-42/2025">
+    <img src="https://img.shields.io/badge/View_My_2025_Skyline-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 2025"/>
+  </a>
+  
 </div>
 
 <br/>
 
-## 📊 Profile Summary Card
+## 📊 Language Distribution
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhaz-42&theme=tokyonight" alt="Profile Summary"/>
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhaz-42&theme=radical)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minhaz-42&theme=radical)
+  
 </div>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhaz-42&theme=tokyonight" width="49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minhaz-42&theme=tokyonight" width="49%" />
-</p>
+<div align="center">
+  
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minhaz-42&theme=react-dark&hide_border=true&area=true)](https://github.com/minhaz-42)
+  
+</div>
 
 <br/>
 
