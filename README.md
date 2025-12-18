@@ -1,14 +1,40 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanvir%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8F%86;Always+Learning+New+Things+%F0%9F%93%9A;Problem+Solver+%F0%9F%94%A5" alt="Typing SVG" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tanvir%20Ahmed&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Code%20•%20Solving%20Problems%20•%20Building%20Dreams&descAlignY=55&descAlign=50&descSize=16" width="100%"/>
+  
   <br/>
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=minhaz-42&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/minhaz-42)
-  [![GitHub followers](https://img.shields.io/github/followers/minhaz-42?label=Followers&style=social)](https://github.com/minhaz-42)
-  [![GitHub stars](https://img.shields.io/github/stars/minhaz-42?label=Stars&style=social)](https://github.com/minhaz-42)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&height=100&lines=Hey!+I'm+Tanvir+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8F%86;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Things+%F0%9F%93%9A;Open+Source+Enthusiast+%E2%9C%A8;Let's+Build+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG" />
+  
+  <br/>
+  
+  <p>
+    <a href="https://github.com/minhaz-42">
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    </a>
+    <a href="mailto:tanviahmed.minhaz1@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/minhaz-42?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-View%20All-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+    </a>
+  </p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=minhaz-42&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/minhaz-42?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/minhaz-42?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="Stars"/>
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Competitive%20Programming-FF6B6B?style=for-the-badge" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Learning-Full%20Stack%20Development-4ECDC4?style=for-the-badge" alt="Learning"/>
+    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00D9FF?style=for-the-badge" alt="Status"/>
+  </p>
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhaz-42&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
 
 </div>
 
