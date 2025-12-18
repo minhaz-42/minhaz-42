@@ -19,9 +19,11 @@
 ```typescript
 const tanvir = {
     name: "Tanvir Ahmed",
+    username: "@minhaz-42",
     location: "Earth 🌍",
     role: "Software Developer",
     education: "Computer Science Student",
+    email: "tanviahmed.minhaz1@gmail.com",
     languages: ["C++", "Java", "Python", "JavaScript", "PHP"],
     interests: ["Problem Solving", "Web Development", "Data Structures", "Algorithms"],
     currentlyLearning: ["Advanced Algorithms", "Full Stack Development", "System Design"],
@@ -38,7 +40,7 @@ const tanvir = {
 - 🌱 Learning **Advanced Web Development**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **C++, Java, Python, Web Dev**
-- 📫 Reach me: **mdt818809@gmail.com**
+- 📫 Reach me: **tanviahmed.minhaz1@gmail.com**
 - ⚡ Fun fact: **I think semicolons are overrated! 😄**
 
 <br clear="right"/>
@@ -55,7 +57,7 @@ const tanvir = {
   <a href="https://linkedin.com/in/minhaz-42">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mdt818809@gmail.com">
+  <a href="mailto:tanviahmed.minhaz1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://twitter.com/minhaz_42">
@@ -117,8 +119,14 @@ const tanvir = {
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minhaz-42&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=minhaz-42&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </p>
+
+<div align="center">
+  
+  [![An image of @minhaz42's Holopin badges](https://holopin.me/minhaz42)](https://holopin.io/@minhaz42)
+  
+</div>
 
 <br/>
 
@@ -171,20 +179,24 @@ const tanvir = {
 
 <br/>
 
-## 📊 Weekly Coding Stats
+## � Contribution Snake
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/minhaz-42/minhaz-42/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <br/>
 
+## 📊 Profile Summary Card
+
 <div align="center">
-
-### 🎵 Now Playing on Spotify
-
-[![Spotify](https://novatorem-minhaz42.vercel.app/api/spotify)](https://open.spotify.com/user/31l55ggkqva2yutdmfx4kbxhzfhy)
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhaz-42&theme=tokyonight" alt="Profile Summary"/>
 </div>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhaz-42&theme=tokyonight" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minhaz-42&theme=tokyonight" width="49%" />
+</p>
 
 <br/>
 
@@ -192,17 +204,35 @@ const tanvir = {
 
 <div align="center">
 
+### � Profile Views & Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=minhaz-42&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
 ### 💖 Show Some Love
 
 If you like my work, consider buying me a coffee! ☕
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/minhaz42)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/minhaz42)
+
+**Thanks for visiting! Let's connect and build something amazing together! 🚀**
 
 <br/>
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=minhaz-42&icon=5&color=6)
+### 📬 Get in Touch
 
-**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+<table align="center">
+  <tr>
+    <td align="center">💼 Open for collaborations</td>
+    <td align="center">📧 Email: tanviahmed.minhaz1@gmail.com</td>
+  </tr>
+  <tr>
+    <td align="center">🔗 Let's build together!</td>
+    <td align="center">⭐ Don't forget to star my repos!</td>
+  </tr>
+</table>
 
 </div>
 
