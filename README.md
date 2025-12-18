@@ -148,7 +148,6 @@ const tanvir = {
 
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=minhaz-42&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz-42&theme=radical&hide_border=true&layout=compact&langs_count=8)
   
 </div>
