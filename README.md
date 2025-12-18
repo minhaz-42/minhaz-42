@@ -49,18 +49,6 @@
 
 <br/>
 
-## 📋 Pinned Repositories
-
-<div align="center">
-  
-  <a href="https://github.com/minhaz-42?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhaz-42&repo=minhaz-42&theme=radical&hide_border=true" width="48%" />
-  </a>
-  
-</div>
-
-<br/>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -83,16 +71,7 @@ const tanvir = {
 };
 ```
 
-### 📊 Skill Levels
-
-```text
-C++            █████████░ 90%
-Java           ████████░░ 80%
-Python         ███████░░░ 70%
-JavaScript     ████████░░ 75%
-Problem Solving█████████░ 95%
-Web Dev        ███████░░░ 70%
-```
+<br clear="right"/>
 
 ### 🎯 Current Focus
 
