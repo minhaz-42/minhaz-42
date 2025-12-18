@@ -237,16 +237,6 @@ const tanvir = {
 
 <br/>
 
-## 💭 Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
-</div>
-
-<br/>
-
 ## 🎲 Random Dev Fact
 
 <div align="center">
@@ -291,38 +281,16 @@ const tanvir = {
 
 ---
 
+---
+
 <div align="center">
 
-### � Profile Views & Stats
+### 🌟 Thanks for visiting!
 
-![Profile Views](https://komarev.com/ghpvc/?username=minhaz-42&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
-### 💖 Show Some Love
-
-If you like my work, consider buying me a coffee! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/minhaz42)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/minhaz42)
-
-**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+**Let's connect and build something amazing together!** 🚀
 
 <br/>
-
-### 📬 Get in Touch
-
-<table align="center">
-  <tr>
-    <td align="center">💼 Open for collaborations</td>
-    <td align="center">📧 Email: tanviahmed.minhaz1@gmail.com</td>
-  </tr>
-  <tr>
-    <td align="center">🔗 Let's build together!</td>
-    <td align="center">⭐ Don't forget to star my repos!</td>
-  </tr>
-</table>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
