@@ -123,18 +123,31 @@ const tanvir = {
 
 <br/>
 
-## 🏆 GitHub Metrics
+## 🏆 GitHub Achievements
 
 <div align="center">
-  
-  ![Metrics](https://metrics.lecoq.io/minhaz-42?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka)
-  
-</div>
 
-<div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api/wakatime?username=minhaz42&theme=radical&hide_border=true&layout=compact)
-  
+### 🌟 Milestones
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/followers/minhaz-42?label=Followers&style=for-the-badge&logo=github&color=ff69b4" alt="Followers"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/minhaz-42?label=Total%20Stars&style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Repositories-View%20All-blue?style=for-the-badge&logo=github" alt="Repos"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github" alt="Open Source"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
@@ -145,6 +158,15 @@ const tanvir = {
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minhaz-42&theme=radical&utcOffset=6)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minhaz-42&theme=radical)
+  
+</div>
+
+<div align="center">
+  
+  ### 🔥 Commit Stats
+  
+  ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/minhaz-42/minhaz-42?style=for-the-badge&logo=github&label=Commits%20This%20Month)
+  ![Last Commit](https://img.shields.io/github/last-commit/minhaz-42/minhaz-42?style=for-the-badge&logo=github&label=Last%20Commit)
   
 </div>
 
