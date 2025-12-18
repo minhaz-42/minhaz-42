@@ -35,12 +35,35 @@
   <br/>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhaz-42&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
+  
+  <br/>
+  
+  <details>
+    <summary>📊 <b>Quick Stats Overview</b> (Click to expand)</summary>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=minhaz-42&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhaz-42&theme=radical&hide_border=true" width="48%" />
+  </details>
 
 </div>
 
 <br/>
 
+## 📋 Pinned Repositories
+
+<div align="center">
+  
+  <a href="https://github.com/minhaz-42?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhaz-42&repo=minhaz-42&theme=radical&hide_border=true" width="48%" />
+  </a>
+  
+</div>
+
+<br/>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```typescript
 const tanvir = {
@@ -54,11 +77,22 @@ const tanvir = {
     interests: ["Problem Solving", "Web Development", "Data Structures", "Algorithms"],
     currentlyLearning: ["Advanced Algorithms", "Full Stack Development", "System Design"],
     funFact: "I debug code faster than I can find my keys! 🔑🐛",
-    motto: "Code. Commit. Repeat. 🔄"
+    motto: "Code. Commit. Repeat. 🔄",
+    
+    getQuote: () => "First, solve the problem. Then, write the code."
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+### 📊 Skill Levels
+
+```text
+C++            █████████░ 90%
+Java           ████████░░ 80%
+Python         ███████░░░ 70%
+JavaScript     ████████░░ 75%
+Problem Solving█████████░ 95%
+Web Dev        ███████░░░ 70%
+```
 
 ### 🎯 Current Focus
 
@@ -123,6 +157,9 @@ const tanvir = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </details>
 
@@ -202,7 +239,7 @@ const tanvir = {
 
 <div align="center">
 
-### Coding Platforms
+### 🏆 Coding Profiles
 
 <table>
   <tr>
@@ -259,6 +296,12 @@ const tanvir = {
   </tr>
 </table>
 
+### 📈 Problem Solving Stats
+
+<img src="https://img.shields.io/badge/Total_Problems_Solved-500+-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Contest_Rating-Expert-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Daily_Streak-30+_Days-4ECDC4?style=for-the-badge" />
+
 </div>
 
 <br/>
@@ -305,15 +348,41 @@ const tanvir = {
 
 <br/>
 
----
+## 🌟 GitHub Highlights
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz-42&theme=radical&hide_border=true&layout=donut" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://github-contributor-stats.vercel.app/api?username=minhaz-42&limit=3&theme=radical&combine_all_yearly_contributions=true&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-### 🌟 Thanks for visiting!
+### 🚀 Let's Connect and Build Together!
 
-**Let's connect and build something amazing together!** 🚀
+<p>
+  <a href="https://github.com/minhaz-42">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:tanviahmed.minhaz1@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+**⭐ Don't forget to star my repos if you find them useful!**
 
 <br/>
 
