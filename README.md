@@ -55,11 +55,11 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhaz-42&show_icons=true&theme=radical&hide_border=true)
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minhaz-42&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz-42&theme=radical&hide_border=true&layout=compact)
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minhaz-42&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minhaz-42&theme=radical&hide_border=true)
+  <img src="https://streak-stats.demolab.com?user=minhaz-42&theme=radical&hide_border=true" alt="GitHub Streak" />
   
 </div>
 
