@@ -59,7 +59,7 @@
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minhaz-42&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
   
-  <img src="https://streak-stats.demolab.com?user=minhaz-42&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=minhaz-42&theme=radical&hide_border=true" alt="GitHub Streak" />
   
 </div>
 
