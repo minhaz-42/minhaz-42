@@ -37,14 +37,6 @@ Welcome to my GitHub! Here you'll find my latest projects, competitive programmi
 
 ---
 
-
-If your GitHub Streak is not updating:
-* Push commits to a public, non-forked repository's default branch.
-* Make sure your commit email matches your GitHub account and is verified.
-* Commits must be visible on your GitHub profile's contribution graph.
-* Sometimes GitHub takes a few minutes to update the streak.
-
-If you contributed today and it's not showing, try making another commit and pushing again, or check your profile after a short wait.
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
