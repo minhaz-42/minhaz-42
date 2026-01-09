@@ -3,16 +3,8 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=minhaz-42&label=Profile%20Views&color=blueviolet&style=flat)
-  [![GitHub followers](https://img.shields.io/github/followers/minhaz-42?label=Followers&style=social)](https://github.com/minhaz-42)
   
 </div>
-
-## 🚀 About Me
-
-- 🎓 **Computer Science Student**
-- 💻 **Full Stack Developer** | **Competitive Programmer**
-- 🔭 Currently working on **Competitive Programming & DSA**
-- 🌱 Learning **Advanced Web Development & System Design**
 - 📫 Reach me: **tanviahmed.minhaz1@gmail.com**
 
 ---
@@ -24,7 +16,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/minhaz-42)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tanviahmed.minhaz1@gmail.com)
 
----
 
 ## 💻 Tech Stack
 
@@ -38,7 +29,6 @@
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-
 ---
 
 ## 📢 Quick Summary
@@ -47,7 +37,6 @@ Welcome to my GitHub! Here you'll find my latest projects, competitive programmi
 
 ---
 
-## 🕒 Recent Activity & Streak Tips
 
 If your GitHub Streak is not updating:
 * Push commits to a public, non-forked repository's default branch.
